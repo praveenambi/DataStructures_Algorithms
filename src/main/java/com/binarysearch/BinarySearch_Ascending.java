@@ -13,7 +13,7 @@ public class BinarySearch_Ascending {
 
         int[] arr = {2,4,7,9,11,17,23,34,46,47,66};
         int target = 47;
-       int targetelement =  findTargetElement(arr,target);
+        int targetelement =  findTargetElement(arr,target);
 
         System.out.println("The target element is found at " + targetelement);
 

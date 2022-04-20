@@ -15,7 +15,6 @@ public class LinearSearch_element {
         System.out.println(searchGivenElement(arr,target));
 
     }
-  // care@railyatri.in
     public static int searchGivenElement(int[] arr, int target){
 
         if (arr.length<=0){
