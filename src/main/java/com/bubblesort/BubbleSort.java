@@ -7,6 +7,8 @@ import java.util.Arrays;
 The iteration  for each i value  an at end of each iteration  the max value will be at the end of arra.
 
 Time complexity : O(N) , where the N will be size of array
+
+Logic : iterate through the array and comoare each element , swap them in Ascending order,
  */
 
 public class BubbleSort {
