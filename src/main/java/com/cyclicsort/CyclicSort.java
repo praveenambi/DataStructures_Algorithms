@@ -10,6 +10,8 @@ import java.util.Arrays;
  * the time complexity will be O(N)
  *
  *
+ * Hint : if the given number are 1 to N, the simply apply cyclic sort, to sort the arrays and to find the missing numbers
+ *
  */
 
 
