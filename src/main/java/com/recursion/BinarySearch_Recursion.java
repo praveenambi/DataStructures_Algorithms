@@ -23,7 +23,6 @@ package com.recursion;
  */
 
 
-
 public class BinarySearch_Recursion {
 
     public static void main(String[] args) {
@@ -57,8 +56,6 @@ public class BinarySearch_Recursion {
         }else
 
             return binarySearch(arr,target,start,middle-1);
-
-
 
     }
 }
