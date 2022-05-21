@@ -34,7 +34,6 @@ public class ArraySubset {
 
     }
 
-
     public static List<List<Integer>> ArraySubset(int[] arr){
         // create an outer list which contain the original list to return
         List<List<Integer>> outerList = new ArrayList<>();
@@ -50,17 +49,10 @@ public class ArraySubset {
                 outerList.add(internalList);
             }
 
-
         }
 
         return outerList;
 
-
-
     }
-
-
-
-
 
 }
