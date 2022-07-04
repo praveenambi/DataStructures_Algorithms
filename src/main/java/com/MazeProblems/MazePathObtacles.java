@@ -32,19 +32,16 @@ public class MazePathObtacles {
 
         // when row is less than row numer , increment the row count with 1 and ammend path with D
         if (row<maze.length-1){
-            printpathObstacle(path+"DOWN ",maze, row+1,col);
+            printpathObstacle(path+"↓ ",maze, row+1,col);
 
         }
 
         // when col is less than last col number , increment the col count with 1 and ammend path with R
         if (col<maze[0].length-1){
 
-            printpathObstacle(path+"RIGHT ",maze, row,col+1);
+            printpathObstacle(path+"➔ ",maze, row,col+1);
         }
-
-
     }
-
 
 
     public static void main(String[] args) {
@@ -52,6 +49,7 @@ public class MazePathObtacles {
         boolean[][] board =  {
                 {true,true,true},
                 {true,false,true},
+                {true,true,true},
                 {true,true,true}
         };
 
