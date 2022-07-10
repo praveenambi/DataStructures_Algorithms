@@ -27,6 +27,13 @@ public class NQueens {
         int totalWays = findQueenPath(board,0);
         System.out.println("Total no of ways " + totalWays);
 
+
+        for (boolean[] i : board) {
+
+
+
+        }
+
     }
 
 
@@ -100,14 +107,12 @@ public class NQueens {
                 if (element){ // for each row cell, if the element is true , the place Queen
                     System.out.print("♛ ");
                 }else {
-                    System.out.print("# ");
+                    System.out.print("■ ");
                 }
             }
             System.out.println();
 
         }
-
-
 
     }
 
