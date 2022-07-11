@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e00b1b35-b242-4c52-aa34-4ae39174c1be" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/MazeProblems/NQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MazeProblems/NQueens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/MazeProblems/NQueens.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/MazeProblems/NQueens.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/MazeProblems/SudukoSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MazeProblems/SudukoSolver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +65,7 @@
       <recent name="com.binarysearch" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SolveSuduko">
+  <component name="RunManager" selected="Application.SudukoSolver">
     <configuration name="AllPaths_BackTrack_printPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.MazeProblems.AllPaths_BackTrack_printPath" />
       <module name="DSAlgorithms" />
@@ -134,8 +133,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SolveSuduko" />
         <item itemvalue="Application.SudukoSolver" />
+        <item itemvalue="Application.SolveSuduko" />
         <item itemvalue="Application.N_Knights" />
         <item itemvalue="Application.NQueens" />
         <item itemvalue="Application.AllPaths_BackTrack_printPath" />

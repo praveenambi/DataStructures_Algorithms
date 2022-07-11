@@ -26,7 +26,6 @@ public class SudukoSolver {
     }
 
 
-
     public  static boolean solveSuduko(int[][] board){
 
         int row =-1;
@@ -88,9 +87,10 @@ public class SudukoSolver {
         /*check the row */
         for (int i = 0; i <board.length ; i++) {
             //check  if the number is already in row or not
-            if (board[row][col]==number){
-                return  false;
+            if (board[row][i] == number) {
+                return false;
             }
+        }
             /*check the col */
             for (int[] numbers:board ) {  // checking for every single row but for same col, so checking for each number from 1 to 9
                 if (numbers[col]==number){
@@ -104,16 +104,12 @@ public class SudukoSolver {
 
             for (int r = rowStart; r< rowStart+sqrt ; r++) { // loop runs from start of each row  till end row of  each 3*3  box
                 for (int c = colStart; c < colStart+sqrt; c++) {    // loop runs from start of each col  till end col of  each 3*3  box
-                    if (board[row][col]==number){
+                    if (board[r][c]==number){
                         return  false;
                     }
                 }
-            }
         }
         return  true;
     }
-
-
-
 
 }
