@@ -19,6 +19,7 @@ public class SudukoSolver {
 
         if (solveSuduko(board)){
             display(board);
+            System.out.println();
         }else {
             System.out.println("Suduko can not be solved");
         }
@@ -79,7 +80,7 @@ public class SudukoSolver {
             }
             System.out.println();
         }
-
+        System.out.println();
 
     }
 

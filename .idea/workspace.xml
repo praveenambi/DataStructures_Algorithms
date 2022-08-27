@@ -7,6 +7,7 @@
     <list default="true" id="e00b1b35-b242-4c52-aa34-4ae39174c1be" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/MazeProblems/SudukoSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MazeProblems/SudukoSolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/MazeProblems/SudukoSolver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/MazeProblems/SudukoSolver.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +50,14 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\IN22916580\DSAlgorithms\src\main\java\com\subsets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\IN22916580\DSAlgorithms\src\main\java\com\linkedList" />
       <recent name="C:\Users\IN22916580\DSAlgorithms\src\main\java\com\MazeProblems" />
       <recent name="C:\Users\IN22916580\DSAlgorithms\src\main\java\MazeProblems" />
     </key>
@@ -65,13 +67,13 @@
       <recent name="com.binarysearch" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SudukoSolver">
-    <configuration name="AllPaths_BackTrack_printPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.MazeProblems.AllPaths_BackTrack_printPath" />
+  <component name="RunManager" selected="Application.CLLMain">
+    <configuration name="CLLMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.linkedList.CLLMain" />
       <module name="DSAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.MazeProblems.*" />
+          <option name="PATTERN" value="com.linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.MazeProblems.NQueens" />
+    <configuration name="DLLMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.linkedList.DLLMain" />
       <module name="DSAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.MazeProblems.*" />
+          <option name="PATTERN" value="com.linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N_Knights" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.MazeProblems.N_Knights" />
+    <configuration name="DateCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basicPrograms.DateCalendar" />
       <module name="DSAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.MazeProblems.*" />
+          <option name="PATTERN" value="com.basicPrograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolveSuduko" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.MazeProblems.SolveSuduko" />
+    <configuration name="LinkedListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.linkedList.LinkedListMain" />
       <module name="DSAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.MazeProblems.*" />
+          <option name="PATTERN" value="com.linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SudukoSolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.MazeProblems.SudukoSolver" />
+    <configuration name="Stringoperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basicPrograms.Stringoperations" />
       <module name="DSAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.MazeProblems.*" />
+          <option name="PATTERN" value="com.basicPrograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SudukoSolver" />
-        <item itemvalue="Application.SolveSuduko" />
-        <item itemvalue="Application.N_Knights" />
-        <item itemvalue="Application.NQueens" />
-        <item itemvalue="Application.AllPaths_BackTrack_printPath" />
+        <item itemvalue="Application.CLLMain" />
+        <item itemvalue="Application.DLLMain" />
+        <item itemvalue="Application.Stringoperations" />
+        <item itemvalue="Application.DateCalendar" />
+        <item itemvalue="Application.LinkedListMain" />
       </list>
     </recent_temporary>
   </component>
@@ -210,6 +212,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/MazeProblems/NQueens.java</url>
           <line>47</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/linkedList/CLLMain.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
