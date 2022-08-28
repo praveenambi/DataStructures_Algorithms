@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdbf6133-fefd-4be7-a3a5-cf6e772a8123" name="Changes" comment="" />
+    <list default="true" id="e00b1b35-b242-4c52-aa34-4ae39174c1be" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/MazeProblems/SudukoSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MazeProblems/SudukoSolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/MazeProblems/SudukoSolver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/MazeProblems/SudukoSolver.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,13 +50,14 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\IN22916580\DSAlgorithms\src\main\java\com\subsets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\IN22916580\DSAlgorithms\src\main\java\com\linkedList" />
       <recent name="C:\Users\IN22916580\DSAlgorithms\src\main\java\com\MazeProblems" />
       <recent name="C:\Users\IN22916580\DSAlgorithms\src\main\java\MazeProblems" />
     </key>
@@ -62,13 +67,13 @@
       <recent name="com.binarysearch" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AllPaths_BackTrack_printPath">
-    <configuration name="AllPaths_BackTrack_printPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.MazeProblems.AllPaths_BackTrack_printPath" />
+  <component name="RunManager" selected="Application.CLLMain">
+    <configuration name="CLLMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.linkedList.CLLMain" />
       <module name="DSAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.MazeProblems.*" />
+          <option name="PATTERN" value="com.linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AllPaths_BackTracking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.MazeProblems.AllPaths_BackTracking" />
+    <configuration name="DLLMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.linkedList.DLLMain" />
       <module name="DSAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.MazeProblems.*" />
+          <option name="PATTERN" value="com.linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Allpaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.MazeProblems.Allpaths" />
+    <configuration name="DateCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basicPrograms.DateCalendar" />
       <module name="DSAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.MazeProblems.*" />
+          <option name="PATTERN" value="com.basicPrograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MazePathDiagonal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.MazeProblems.MazePathDiagonal" />
+    <configuration name="LinkedListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.linkedList.LinkedListMain" />
       <module name="DSAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.MazeProblems.*" />
+          <option name="PATTERN" value="com.linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MazePathObtacles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.MazeProblems.MazePathObtacles" />
+    <configuration name="Stringoperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basicPrograms.Stringoperations" />
       <module name="DSAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.MazeProblems.*" />
+          <option name="PATTERN" value="com.basicPrograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,18 +135,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AllPaths_BackTrack_printPath" />
-        <item itemvalue="Application.AllPaths_BackTracking" />
-        <item itemvalue="Application.Allpaths" />
-        <item itemvalue="Application.MazePathObtacles" />
-        <item itemvalue="Application.MazePathDiagonal" />
+        <item itemvalue="Application.CLLMain" />
+        <item itemvalue="Application.DLLMain" />
+        <item itemvalue="Application.Stringoperations" />
+        <item itemvalue="Application.DateCalendar" />
+        <item itemvalue="Application.LinkedListMain" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fdbf6133-fefd-4be7-a3a5-cf6e772a8123" name="Changes" comment="" />
+      <changelist id="e00b1b35-b242-4c52-aa34-4ae39174c1be" name="Changes" comment="" />
       <created>1650370926438</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -202,6 +207,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/recursion/SkipApple.java</url>
           <line>12</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/MazeProblems/NQueens.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/linkedList/CLLMain.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
